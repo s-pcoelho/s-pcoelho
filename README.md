@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi 👋
 
-<!--
-**s-pcoelho/s-pcoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'am...
 
-Here are some ideas to get you started:
+    $name = 'Sophia Coelho';
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    $age = 18;
+
+    $profession = 'Front-end Developer';
+
+
+👉 I graduated in Systems Development from the Technical School (ETEC) in Peruíbe-SP and currently live in São Paulo. I am at the beginning of developing my professional career in the field of technology (IT) and, despite focusing on Web Design and Front-end, I have studied several other areas.
+
+
+#### 🦾 SKILLS
+
+    ▪️ Languages: JavaScript, React, PHP, AdvPL.
+
+    ▪️ Frameworks: jQuery, node.js, Bootsrap, Materialize, CodeIgniter.
+
+    ▪️ Others: HTML, CSS, SASS.
+
+
+#### ⚡️ ABOUT ME
+
+    ▪️ Pronouns: she/her.
+
+    ▪️ Ask me about ...: anything related to books or design, I love it.
+
+#### 🔍 HOW TO FIND ME
+
+▪️ 📧 E-mail: sophiapires7@gmail.com or sophiapires_k3@hotmail.com
+
+▪️ 💼 LinkedIn: https://github.com/s-pcoelho
